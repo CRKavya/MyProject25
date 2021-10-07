@@ -41,7 +41,7 @@ function setup() {
 
 
 function draw() {
-	background(0);
+	background("yellow");
 	rectMode(CENTER);
 
 
